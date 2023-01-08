@@ -3,11 +3,11 @@
 # Todos
 
 - [x] 8 Equalizer Potis abnehmen
-- [ ] Lautstärke Poti abnehmen
-- [ ] Balance Poti abnehmen
+- [x] Lautstärke Poti abnehmen
+- [x] Balance Poti abnehmen
 - [ ] 10 Kassettentasten abnehmen
 - [ ] Tuning Rad abnehmen
-- [ ] 5 Kassetten Auswahl Tasten abnehmen
+- [x] 5 Kassetten Auswahl Tasten abnehmen
 - [ ] Input Auswahl Knopf abnehmen
 - [ ] \(Optional) Leds der Lautstärke Anzeige anspielen
 

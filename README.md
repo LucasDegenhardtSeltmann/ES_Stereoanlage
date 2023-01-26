@@ -8,13 +8,13 @@
 - [ ] 10 Kassettentasten abnehmen
 - [ ] Tuning Rad abnehmen
 - [x] 5 Kassetten Auswahl Tasten abnehmen
-- [ ] Input Auswahl Knopf abnehmen
+- [X] Input Auswahl Knopf abnehmen
 - [ ] \(Optional) Leds der Lautstärke Anzeige anspielen
 
-- [ ] Arduino UART Kommunikation Programmieren
+- [X] Arduino UART Kommunikation Programmieren
 - [ ] Arduino auslesen in sinvollem Interval
-- [ ] NodeMCU UART Kommunikation Programmieren
-- [ ] NodeMCU MQTT Kommunikation Programmieren
+- [X] NodeMCU UART Kommunikation Programmieren
+- [X] NodeMCU MQTT Kommunikation Programmieren
 - [ ] Server Script welches Aktionen nach Mqtt Nachrichten auslöst Programmieren
 
 ![Frontansicht](/imgs/IMG_5901.jpg)
